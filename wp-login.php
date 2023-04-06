@@ -17,7 +17,7 @@
 		<div id="login">
 		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="http://localhost/wordpress_2/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="http://digitalsevagov.co.in/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username">
